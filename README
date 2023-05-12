@@ -4,7 +4,7 @@ Este es un Readme para un servicio de streaming de video basado en DLNA (Digital
 
 ## Características
 
-- **DLNA**: El servicio utiliza DLNA, un estándar de la industria que permite la interoperabilidad entre dispositivos de diferentes fabricantes. Con DLNA, puedes transmitir video desde un dispositivo a otro sin problemas.
+- **DLNA**: Con DLNA, puedes transmitir video desde un dispositivo a otro sin problemas.
 
 - **VLC**: VLC es un reproductor multimedia popular y de código abierto que es compatible con una amplia variedad de formatos de video y ofrece una experiencia de reproducción de alta calidad. El servicio utiliza VLC como reproductor multimedia predeterminado para la transmisión de video.
 
