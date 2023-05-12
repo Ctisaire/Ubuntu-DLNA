@@ -1,1 +1,32 @@
+# Video Streaming Service with DLNA and VLC
+
+Este es un Readme para un servicio de streaming de video basado en DLNA (Digital Living Network Alliance) y VLC (VideoLAN Client). Este servicio te permite transmitir contenido multimedia desde un dispositivo a otro en una red local, utilizando el estándar DLNA para la interoperabilidad y VLC como reproductor multimedia.
+
+## Características
+
+- **DLNA**: El servicio utiliza DLNA, un estándar de la industria que permite la interoperabilidad entre dispositivos de diferentes fabricantes. Con DLNA, puedes transmitir video desde un dispositivo a otro sin problemas.
+
+- **VLC**: VLC es un reproductor multimedia popular y de código abierto que es compatible con una amplia variedad de formatos de video y ofrece una experiencia de reproducción de alta calidad. El servicio utiliza VLC como reproductor multimedia predeterminado para la transmisión de video.
+
+- **Transmisión en red local**: El servicio está diseñado para funcionar en una red local. Esto significa que puedes transmitir contenido multimedia desde un dispositivo, como una computadora, a otro dispositivo, como una smart TV o un dispositivo móvil, sin necesidad de una conexión a Internet.
+
+- **Interfaz de usuario fácil de usar**: El servicio cuenta con una interfaz de usuario intuitiva que te permite navegar y seleccionar el contenido multimedia que deseas transmitir. Puedes explorar tus archivos de video, crear listas de reproducción y controlar la reproducción desde cualquier dispositivo conectado a la red.
+
+## Requisitos previos
+
+Antes de utilizar el servicio de video con DLNA y VLC, asegúrate de cumplir con los siguientes requisitos:
+
+- **Dispositivos compatibles con DLNA**: Asegúrate de que los dispositivos en los que deseas reproducir el video sean compatibles con DLNA. Esto incluye dispositivos como smart TVs, consolas de videojuegos, dispositivos de transmisión multimedia, etc.
+
+- **Instalación de VLC**: Asegúrate de tener VLC instalado en los dispositivos desde los cuales deseas transmitir el video. Puedes descargar VLC de forma gratuita desde el sitio web oficial de VideoLAN.
+
+- **Conexión de red local**: El servicio requiere una conexión de red local funcionando correctamente para la transmisión de video. Asegúrate de que todos los dispositivos estén conectados a la misma red Wi-Fi y puedan comunicarse entre sí.
+
+## Instalación y configuración
+
+1. **Descarga del servicio**: Descarga e instala el servicio de video con DLNA y VLC en el dispositivo desde el cual deseas transmitir el contenido. Puedes obtener la última versión del servicio desde el repositorio de GitHub del proyecto.
+
+2. **Configuración del servicio**: Abre la aplicación del servicio en el dispositivo y sigue las instrucciones para configurar la conexión DLNA. Esto puede implicar seleccionar la red Wi-Fi correcta, proporcionar permisos de acceso a la red, etc.
+
+3. **Añadir contenido multimedia**: Una vez configurado el servicio, puedes agregar tu contenido multimedia al servicio. Esto puede incluir archivos de video, carpetas de videos o incluso listas de reproducción. Asegúrate de que los archivos de video estén en un formato compatible con VLC.
 
